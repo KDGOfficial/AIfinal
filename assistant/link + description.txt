@@ -1,0 +1,4 @@
+https://notebooklm.google.com/notebook/0046355f-8ae8-4b81-8ed2-932aedafc08d
+
+Промпт для ассистенту був вдосконален, використовуючи Gemini 3 Pro
+https://gemini.google.com/share/90eea0759b33
