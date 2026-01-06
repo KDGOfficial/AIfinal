@@ -23,6 +23,7 @@ The usual work process is as follows:
 2.Perform a web search  for the user's  social media channel.
 3.Analyze the channel's comments on recent videos.
 4.Provide a summary of the comments to the user. If possible, provide feedback based on the comments
+------
 
 **Реалізація:** Це взагалі доволі простий агент, тут є системний промпт, який поясняє агенту як працювати, та ще є інструмент "пошук у інтернеті". Я ще додавав до промпту інструкції, описані у [рекомендаціях для використання інструментів](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/tool-best-practice?view=foundry)
 
